@@ -1,7 +1,6 @@
 import React from 'react'
 import {Bar} from "react-chartjs-2"
-import {Chartjs} from 'chart.js/auto'
-import { Container } from 'react-bootstrap'
+import {Chartjs} from 'chart.js/auto' 
 
 const BarChart = ({chart_data}) => {
   return (
